@@ -33,7 +33,7 @@ else:
 ```
 ### Результат.
 
-![Меню]![image](https://github.com/VadimNuriev/prog_ing/assets/120504248/09a06bd0-b54f-4f91-84a3-d509c0d6620e)
+[image](https://github.com/VadimNuriev/prog_ing/assets/120504248/09a06bd0-b54f-4f91-84a3-d509c0d6620e)
 
 
 ## Выводы
@@ -55,7 +55,7 @@ else:
 
 ### Результат
 
-![Меню](https://github.com/VadimNuriev/prog_ing/assets/120504248/a066dadb-700d-4fc1-8c46-61b37caba289)
+(https://github.com/VadimNuriev/prog_ing/assets/120504248/a066dadb-700d-4fc1-8c46-61b37caba289)
 
 
 ### Выводы
@@ -77,7 +77,7 @@ else:
 
 ### Результат
 
-![Меню]![image](https://github.com/VadimNuriev/prog_ing/assets/120504248/e6b1a505-fa9c-44ab-a2da-45d7eed2e2f9)
+![image](https://github.com/VadimNuriev/prog_ing/assets/120504248/e6b1a505-fa9c-44ab-a2da-45d7eed2e2f9)
 
 
 ### Выводы
@@ -101,7 +101,7 @@ else:
 
 ### Результат
 
-![Меню]![image](https://github.com/VadimNuriev/prog_ing/assets/120504248/1a92b40d-f780-4c09-b28c-48c2227781eb)
+![image](https://github.com/VadimNuriev/prog_ing/assets/120504248/1a92b40d-f780-4c09-b28c-48c2227781eb)
 
 
 ### Выводы
@@ -142,7 +142,7 @@ for i in range(10):
 ### Результат
 ![image](https://github.com/VadimNuriev/prog_ing/assets/120504248/3cd26f9b-4de8-420f-b9ec-4d6007abd3cf)
 
-![Меню]
+
 ### Выводы
 
 1. Оператор присваивания `+=` прибавляет к переменной. 
@@ -168,7 +168,7 @@ else:
 
 ### Результат
 
-![Меню]![image](https://github.com/VadimNuriev/prog_ing/assets/120504248/b8b4e2d7-7e5a-48c5-b35e-fb038351a297)
+![image](https://github.com/VadimNuriev/prog_ing/assets/120504248/b8b4e2d7-7e5a-48c5-b35e-fb038351a297)
 
 
 ### Выводы
@@ -187,7 +187,7 @@ for i in range(10,-1,-1):
 
 ### Результат
 
-![Меню]![image](https://github.com/VadimNuriev/prog_ing/assets/120504248/77a104f2-8a3a-4dff-a04d-135181552cef)
+![image](https://github.com/VadimNuriev/prog_ing/assets/120504248/77a104f2-8a3a-4dff-a04d-135181552cef)
 
 
 ### Выводы
@@ -210,7 +210,7 @@ while num < 10:
 
 ### Результат
 
-![Меню]![image](https://github.com/VadimNuriev/prog_ing/assets/120504248/59eba19f-e0d9-49f8-afc0-ebb4cc79a249)
+![image](https://github.com/VadimNuriev/prog_ing/assets/120504248/59eba19f-e0d9-49f8-afc0-ebb4cc79a249)
 
 
 ### Выводы
@@ -236,7 +236,7 @@ print(f"{list}\nЭлементов в списке {len(list)}. Не совпа�
 
 ### Результат
 
-![Меню]![image](https://github.com/VadimNuriev/prog_ing/assets/120504248/d6bcbd40-cb4b-4925-a7d0-0640b7b5e9d6)
+![image](https://github.com/VadimNuriev/prog_ing/assets/120504248/d6bcbd40-cb4b-4925-a7d0-0640b7b5e9d6)
 
 
 ### Выводы
@@ -262,7 +262,7 @@ else:
 
 ### Результат
 
-![Меню]![image](https://github.com/VadimNuriev/prog_ing/assets/120504248/d540b0fd-e5e9-4f62-928e-1da97dfbca76)
+![image](https://github.com/VadimNuriev/prog_ing/assets/120504248/d540b0fd-e5e9-4f62-928e-1da97dfbca76)
 
 
 ### Выводы
@@ -290,7 +290,7 @@ print(x)
 
 ### Результат
 
-![Меню]![image](https://github.com/VadimNuriev/prog_ing/assets/120504248/b1f75a59-5a11-4f00-ae94-3850946a7bc9)
+![image](https://github.com/VadimNuriev/prog_ing/assets/120504248/b1f75a59-5a11-4f00-ae94-3850946a7bc9)
 
 
 ### Выводы
@@ -312,7 +312,7 @@ for i in range(len(phrase)-1,-1,-1):
 
 ### Результат
 
-![Меню]![image](https://github.com/VadimNuriev/prog_ing/assets/120504248/8a680f23-ea2f-4776-b4da-d201c86d9b4a)
+![image](https://github.com/VadimNuriev/prog_ing/assets/120504248/8a680f23-ea2f-4776-b4da-d201c86d9b4a)
 
 
 ### Выводы
@@ -340,7 +340,7 @@ else:
 
   ### Результат
 
-![Меню]![image](https://github.com/VadimNuriev/prog_ing/assets/120504248/4bcd8e95-c387-4463-abb3-5bb4a3d44f2f)
+![image](https://github.com/VadimNuriev/prog_ing/assets/120504248/4bcd8e95-c387-4463-abb3-5bb4a3d44f2f)
 
 
 ### Выводы
@@ -378,7 +378,7 @@ print(f'{text}\nДлина предложения - {length}\nГласных "a,
 
 ### Результат
 
-![Меню]![image](https://github.com/VadimNuriev/prog_ing/assets/120504248/8f7c5d4f-be69-41b8-a870-c15d5cbcadd8)
+![image](https://github.com/VadimNuriev/prog_ing/assets/120504248/8f7c5d4f-be69-41b8-a870-c15d5cbcadd8)
 
 
 ### Выводы
@@ -420,7 +420,7 @@ print(memory)
 
 ### Результат
 
-![Меню]!![image](https://github.com/VadimNuriev/prog_ing/assets/120504248/f7785d4f-3f26-4bea-b1e7-5b51a741b53e)
+![image](https://github.com/VadimNuriev/prog_ing/assets/120504248/f7785d4f-3f26-4bea-b1e7-5b51a741b53e)
 
 
 
