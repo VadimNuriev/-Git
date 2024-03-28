@@ -55,7 +55,7 @@ else:
 
 ### Результат
 
-![Меню]![image](https://github.com/VadimNuriev/prog_ing/assets/120504248/a066dadb-700d-4fc1-8c46-61b37caba289)
+![Меню](https://github.com/VadimNuriev/prog_ing/assets/120504248/a066dadb-700d-4fc1-8c46-61b37caba289)
 
 
 ### Выводы
