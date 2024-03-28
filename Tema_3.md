@@ -33,7 +33,7 @@ else:
 ```
 ### Результат.
 
-[image](https://github.com/VadimNuriev/prog_ing/assets/120504248/09a06bd0-b54f-4f91-84a3-d509c0d6620e)
+![image](https://github.com/VadimNuriev/prog_ing/assets/120504248/09a06bd0-b54f-4f91-84a3-d509c0d6620e)
 
 
 ## Выводы
@@ -55,7 +55,7 @@ else:
 
 ### Результат
 
-(https://github.com/VadimNuriev/prog_ing/assets/120504248/a066dadb-700d-4fc1-8c46-61b37caba289)
+![image](https://github.com/VadimNuriev/prog_ing/assets/120504248/a066dadb-700d-4fc1-8c46-61b37caba289)
 
 
 ### Выводы
