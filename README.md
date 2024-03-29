@@ -49,7 +49,7 @@
 
 2.7. Математические операции
 
-## * [Тема 3. Операторы, условия, циклы](https://github.com/golonr1na/Software_Engineering/blob/Тема_3/Tema_3.md)
+## * [Тема 3. Операторы, условия, циклы](https://github.com/VadimNuriev/prog_ing/blob/Тема_3/Tema_3.md)
 
 
 3.1. Основные операторы Python.
@@ -60,7 +60,7 @@
 
  
 
-## [Тема 4. Функции и стандартные модули/библиотеки](https://github.com/golonr1na/Software_Engineering/blob/Тема_4/Tema_4.md)
+## [Тема 4. Функции и стандартные модули/библиотеки](https://github.com/VadimNuriev/prog_ing/blob/Тема_4/Tema_4.md)
 
 4.1. Функции в Python.
 
@@ -88,7 +88,7 @@
 
 4.13. Встроенные модули Python
 
-## [Тема 5. Базовые коллекции: строки и списки](https://github.com/golonr1na/Software_Engineering/blob/Тема_5/Tema_5.md)
+## [Тема 5. Базовые коллекции: строки и списки](https://github.com/VadimNuriev/prog_ing/blob/Тема_5/Тема_5.md)
 
 5.1. Базовые коллекции.
 
@@ -96,7 +96,7 @@
 
 5.3. Списки.
 
-## [Тема 6. Базовые коллекции: словари, кортежи](https://github.com/golonr1na/Software_Engineering/blob/Тема_6/Tema_6.md)
+## [Тема 6. Базовые коллекции: словари, кортежи](https://github.com/VadimNuriev/prog_ing/blob/Тема_6/Тема_6.md)
 
 6.1. Словари
 
@@ -112,11 +112,11 @@
 
 6.7. Кортеж как параметр и результат функций
 
-## [Тема 7.  Работа с файлами (ввод, вывод)](https://github.com/golonr1na/Software_Engineering/blob/Тема_7/Tema_7.md)
+## [Тема 7.  Работа с файлами (ввод, вывод)](https://github.com/VadimNuriev/prog_ing/blob/Тема_7/Тема_7.md)
 
 7.1. Работа с файлами txt
 
-## [Тема 8.  Основы объектно-ориентированного программирования](https://github.com/golonr1na/Software_Engineering/blob/Тема_8/Tema_8.md)
+## [Тема 8.  Основы объектно-ориентированного программирования](https://github.com/VadimNuriev/prog_ing/blob/Тема_8/Тема_8.md)
 
 8.1. Классы и объекты:
 
@@ -128,7 +128,7 @@
 
 8.5. Полиморфизм.
 
-## [Тема 9.  ООП на Python: концепции, принципы и примеры реализации](https://github.com/golonr1na/Software_Engineering/blob/Тема_9/Tema_9.md)
+## [Тема 9.  ООП на Python: концепции, принципы и примеры реализации](https://github.com/VadimNuriev/prog_ing/blob/Тема_9/Tema_9.md)
 
 9.1. Классы
 
@@ -148,7 +148,7 @@
 
  
 
-## [Тема 10.  Декораторы и исключения](https://github.com/golonr1na/Software_Engineering/blob/Тема_10/Tema_10.md)
+## [Тема 10.  Декораторы и исключения](https://github.com/VadimNuriev/prog_ing/blob/Тема_10/Тема_10.md)
 
 10.1. Декораторы
 
@@ -170,7 +170,7 @@
 
 10.10. Создание своих исключений
 
-## [Тема 11.  Итераторы и генераторы](https://github.com/golonr1na/Software_Engineering/blob/Тема_11/Tema_11.md)
+## [Тема 11.  Итераторы и генераторы](https://github.com/VadimNuriev/prog_ing/blob/Тема_11/Tema_11.md)
 
 11.1. Итераторы
 
