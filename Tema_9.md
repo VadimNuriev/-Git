@@ -192,7 +192,8 @@ while len(tomato_bush.tomatoes) != 0:
 
 ### Результат
 
-![image](https://github.com/VadimNuriev/prog_ing/assets/120504248/0c98254c-f140-4062-a2e7-504b6c034217)
+![image](https://github.com/VadimNuriev/prog_ing/assets/120504248/31e130b3-95c6-428a-9177-24a516b04097)
+
 
 
 ### Выводы
